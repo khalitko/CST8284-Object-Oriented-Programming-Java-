@@ -1,7 +1,7 @@
 /**
  * File name: ResultsPane.java
- * Author: modified by Khalid Hafid, 040-566-282
- * Course: CST8284 – OOP 
+ * Author: modified by Khalid Hafid, ***-***-***
+ * Course: CST8284 â€“ OOP 
  * Assignment: 2
  * Date: 18/4/2018
  * Lab Professor: RAYMOND PETERKIN
