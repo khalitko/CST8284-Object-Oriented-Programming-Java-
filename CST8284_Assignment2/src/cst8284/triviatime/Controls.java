@@ -1,7 +1,7 @@
 /**
  * File name: Controls.java
- * Author: modified by Khalid Hafid, 040-566-282
- * Course: CST8284 – OOP 
+ * Author: modified by Khalid Hafid, ***-***-***
+ * Course: CST8284 â€“ OOP 
  * Assignment: 2
  * Date: 18/4/2018
  * Lab Professor: RAYMOND PETERKIN
@@ -159,7 +159,7 @@ public class Controls {
 			Alert alert = new Alert(AlertType.INFORMATION);
 			alert.setTitle("About");
 			alert.setHeaderText("About Trivia Time");
-			alert.setContentText("Khalid Hafid from sample code provided by Prof. Dave Houtman, ©2018");
+			alert.setContentText("Khalid Hafid from sample code provided by Prof. Dave Houtman, Â©2018");
 			alert.showAndWait();
 		});
 	}
